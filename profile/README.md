@@ -6,7 +6,9 @@ We are a group of Storybook contributors and addon authors who grouped up to hel
 
 > TBA. This organization is getting set up.
 
-### Popular addons we maintain.
+### Popular addons we maintain
+
+> TBA. This organization is getting set up.
 
 ### Contact
 
