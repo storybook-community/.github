@@ -2,17 +2,29 @@
 
 We are a group of Storybook contributors and addon authors who grouped up to help maintain popular Storybook addons. We publish maintenance updates for popular addons that are no longer maintained, and we develop and publish our own addons! When an addon's author no longer responds to Pull Requests and cannot be reached, the Storybook Community Collective steps in to provide a maintenance-only fork of the addon.
 
+### Popular addons we forked and maintain
+
+<dl>
+  <dt><a href="https://github.com/Storybook-Community/storybook-addon-performance">storybook-addon-performance</a></dt>
+  <dd>Help better understand and debug performance for React components.</dd>
+  <dt><a href="https://github.com/Storybook-Community/storybook-dark-mode">storybook-dark-mode</a></dt>
+  <dd>Lets your users toggle between dark and light mode.</dd>
+  <dt><a href="https://github.com/Storybook-Community/storybook-source-link">storybook-source-link</a></dt>
+  <dd>Adds a link to the source repo in the toolbar.</dd>
+</dl>
+
 ### Our original addons
 
-> TBA. This organization is getting set up.
-
-### Popular addons we maintain
-
-> TBA. This organization is getting set up.
+<dl>
+  <dt><a href="https://github.com/Sidnioulz/storybook-addon-tag-badges">storybook-addon-tag-badges</a> <span title="Hosted outside the organization">⛓️‍💥</span></dt>
+  <dd>Display Storybook tags as badges in the sidebar and toolbar.</dd>
+  <dt><a href="https://github.com/Sidnioulz/storybook-addon-vue-mdx">storybook-addon-vue-mdx</a>  <span title="Hosted outside the organization">⛓️‍💥</span></dt>
+  <dd>Use Vue components in MDX files, even outside stories.</dd>
+</dl>
 
 ### Contact
 
-You can find us on the [Storybook Discord server](https://discord.gg/invite/storybook)
+You can find us on the [Storybook Discord server](https://discord.gg/invite/storybook). We have a dedicated channel for team members and we're active on the rest of the server.
 
 ### I want to help
 
@@ -20,7 +32,10 @@ Please note this group is invite-only and new members are vetted based on past c
 
 All contributors must abide by the [Contributor Covenant code of conduct](https://www.contributor-covenant.org/) and refrain from engaging in any form of hateful conduct.
 
+To read more about contributing, check out our [contribution guidelines](https://github.com/storybook-community/.github/profile/CONTRIBUTE.md).
+
 ### Disclaimers
 
 This group is made of volunteers and is not directly controlled by Chromatic. Opinions and statements made by group members are strictly personal.
 
+If you wish to report inappropriate conduct from a member of this community, please read our [safety procedures](https://github.com/storybook-community/.github/profile/SAFETY.md).
