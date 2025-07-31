@@ -2,15 +2,15 @@
 
 We are a group of Storybook contributors and addon authors who grouped up to help maintain popular Storybook addons. We publish maintenance updates for popular addons that are no longer maintained, and we develop and publish our own addons! When an addon's author no longer responds to Pull Requests and cannot be reached, the Storybook Community Collective steps in to provide a maintenance-only fork of the addon.
 
-### Popular addons we forked and maintain
+### Addons we forked and maintain
 
 <dl>
-  <dt><a href="https://github.com/Storybook-Community/storybook-addon-performance">storybook-addon-performance</a></dt>
-  <dd>Help better understand and debug performance for React components.</dd>
-  <dt><a href="https://github.com/Storybook-Community/storybook-dark-mode">storybook-dark-mode</a></dt>
+  <dt><a href="https://github.com/storybook-community/storybook-dark-mode">storybook-dark-mode</a></dt>
   <dd>Lets your users toggle between dark and light mode.</dd>
-  <dt><a href="https://github.com/Storybook-Community/storybook-source-link">storybook-source-link</a></dt>
+  <dt><a href="https://github.com/storybook-community/storybook-source-link">storybook-source-link</a></dt>
   <dd>Adds a link to the source repo in the toolbar.</dd>
+  <dt><a href="https://github.com/storybook-community/storybook-addon-matomo">storybook-addon-performance</a></dt>
+  <dd>Track page visits on a Storybook instance in Matomo.</dd>
 </dl>
 
 ### Our original addons
