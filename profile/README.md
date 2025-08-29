@@ -30,12 +30,12 @@ You can find us on the [Storybook Discord server](https://discord.gg/invite/stor
 
 Please note this group is invite-only and new members are vetted based on past contributions to the Storybook ecosystem. If you're the maintainer of a popular Storybook addon, or a longstanding contributor to Storybook, please get in touch with [Steve Dodier-Lazaro (aka Frog)](https://github.com/sidnioulz).
 
-All contributors must abide by the [Contributor Covenant code of conduct](https://www.contributor-covenant.org/) and refrain from engaging in any form of hateful conduct.
+All contributors must abide by the [Contributor Covenant code of conduct](https://github.com/storybook-community/.github/blob/main/profile/CODE_OF_CONDUCT.md) and refrain from engaging in any form of hateful conduct.
 
-To read more about contributing, check out our [contribution guidelines](https://github.com/storybook-community/.github/profile/CONTRIBUTE.md).
+To read more about contributing, check out our [contribution guidelines](https://github.com/storybook-community/.github/blob/main/profile/CONTRIBUTE.md).
 
 ### Disclaimers
 
 This group is made of volunteers and is not directly controlled by Chromatic. Opinions and statements made by group members are strictly personal.
 
-If you wish to report inappropriate conduct from a member of this community, please read our [safety procedures](https://github.com/storybook-community/.github/profile/SAFETY.md).
+If you wish to report inappropriate conduct from a member of this community, please read our [safety procedures](https://github.com/storybook-community/.github/blob/main/profile/SAFETY.md).
