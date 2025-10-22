@@ -7,10 +7,12 @@ We are a group of Storybook contributors and addon authors who grouped up to hel
 <dl>
   <dt><a href="https://github.com/storybook-community/storybook-dark-mode">storybook-dark-mode</a></dt>
   <dd>Lets your users toggle between dark and light mode.</dd>
+  <dt><a href="https://github.com/storybook-community/storybook-addon-cookie">storybook-addon-cookie</a></dt>
+  <dd>Sets document.cookie in your stories.</dd>
   <dt><a href="https://github.com/storybook-community/storybook-source-link">storybook-source-link</a></dt>
   <dd>Adds a link to the source repo in the toolbar.</dd>
   <dt><a href="https://github.com/storybook-community/storybook-addon-matomo">storybook-addon-matomo</a></dt>
-  <dd>Track page visits on a Storybook instance in Matomo.</dd>
+  <dd>Tracks page visits on a Storybook instance in Matomo.</dd>
 </dl>
 
 ### Our original addons
