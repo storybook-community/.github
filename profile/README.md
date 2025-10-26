@@ -11,6 +11,8 @@ We are a group of Storybook contributors and addon authors who grouped up to hel
   <dd>Sets document.cookie in your stories.</dd>
   <dt><a href="https://github.com/storybook-community/storybook-source-link">storybook-source-link</a></dt>
   <dd>Adds a link to the source repo in the toolbar.</dd>
+  <dt><a href="https://github.com/storybook-community/storybook-addon-contentsquare">storybook-addon-contentsquare</a></dt>
+  <dd>Tracks page visits on a Storybook instance in Contentsquare, and show Hotjar Insights feedback buttons.</dd>
   <dt><a href="https://github.com/storybook-community/storybook-addon-matomo">storybook-addon-matomo</a></dt>
   <dd>Tracks page visits on a Storybook instance in Matomo.</dd>
 </dl>
