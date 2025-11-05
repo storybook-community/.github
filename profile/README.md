@@ -1,8 +1,28 @@
 ## Storybook Community Collective
 
-We are a group of Storybook contributors and addon authors who grouped up to help maintain popular Storybook addons. We publish maintenance updates for popular addons that are no longer maintained, and we develop and publish our own addons! When an addon's author no longer responds to Pull Requests and cannot be reached, the Storybook Community Collective steps in to provide a maintenance-only fork of the addon.
+We are a group of Storybook contributors and addon authors who grouped up to help maintain popular Storybook addons. We publish maintenance updates for popular addons that are no longer maintained, and we develop and publish our own addons! When an addon's author no longer responds to Pull Requests and cannot be reached, the Storybook Community Collective steps in to provide a maintained fork of the addon.
 
-### Addons we forked and maintain
+### How to participate
+
+#### As an addon author
+
+Do you already know how to [write Storybook addons](https://storybook.js.org/docs/addons/writing-addons)? You can join the collective as a general contributor, to help with maintenance effort when major versions of Storybook are released. Come [talk to us on Discord](https://discord.gg/KKXFQy9sFc) if you're interested in helping out.
+
+To read more about contributing, check out our [contribution guidelines](https://github.com/storybook-community/.github/blob/main/profile/CONTRIBUTE.md). If you're already a Storybook contributor or maintainer, you can participate in the maintenance of all addons in the organisation. Otherwise, we can propose specific addons that need active contributors that you can help maintain.
+
+#### As an unmaintained addon user
+
+Do you need an addon that is no longer receiving updates? You can choose to adopt the addon and update it to Storybook, and we'll help you publish it in the community namespace. Publishing addon forks in this group helps avoid duplicate effort, and gives your fork more visibility.
+
+Contributors are invited to the group based on:
+* Agreement with our [code of conduct](https://github.com/storybook-community/.github/blob/main/profile/CODE_OF_CONDUCT.md) and [safety procedures](https://github.com/storybook-community/.github/blob/main/profile/SAFETY.md)
+* Track record of contributions to FOSS projects (NPM packages with active users, multiple contributions to larger projects)
+
+Here are the criteria for an addon to be adopted into the community group:
+* The original, unmaintained addon should have at least 1,000 weekly downloads
+* There must be a person available to be the primary maintainer
+
+### Some addons we maintain
 
 <dl>
   <dt><a href="https://github.com/storybook-community/storybook-dark-mode">storybook-dark-mode</a></dt>
@@ -29,14 +49,6 @@ We are a group of Storybook contributors and addon authors who grouped up to hel
 ### Contact
 
 You can find us on the [Storybook Discord server](https://discord.gg/invite/storybook). We have a dedicated channel for team members and we're active on the rest of the server.
-
-### I want to help
-
-Please note this group is invite-only and new members are vetted based on past contributions to the Storybook ecosystem. If you're the maintainer of a popular Storybook addon, or a longstanding contributor to Storybook, please get in touch with [Steve Dodier-Lazaro (aka Frog)](https://github.com/sidnioulz).
-
-All contributors must abide by the [Contributor Covenant code of conduct](https://github.com/storybook-community/.github/blob/main/profile/CODE_OF_CONDUCT.md) and refrain from engaging in any form of hateful conduct.
-
-To read more about contributing, check out our [contribution guidelines](https://github.com/storybook-community/.github/blob/main/profile/CONTRIBUTE.md).
 
 ### Disclaimers
 
