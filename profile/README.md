@@ -4,6 +4,14 @@ The Storybook Community Collective is a group dedicated to keeping the addon eco
 
 ### How to participate
 
+We happily welcome new contributors. To ensure the sustainability of the collective, new members are invited based on:
+* Agreement with our [code of conduct](https://github.com/storybook-community/.github/blob/main/profile/CODE_OF_CONDUCT.md) and [safety procedures](https://github.com/storybook-community/.github/blob/main/profile/SAFETY.md)
+* Track record of contributions to FOSS projects (NPM packages with active users, multiple contributions to larger projects)
+
+Here are the criteria for an addon to be adopted into the community group:
+* The addon has a significant user base or provides unique value to the ecosystem
+* There must be a person available to be the primary maintainer
+
 #### If you're an addon author
 
 Do you already know how to [write Storybook addons](https://storybook.js.org/docs/addons/writing-addons)? You can join the collective as a general contributor, to help with maintenance effort when major versions of Storybook are released. Come [talk to us on Discord](https://discord.gg/KKXFQy9sFc) if you're interested in helping out.
@@ -13,14 +21,6 @@ To read more about contributing, check out our [contribution guidelines](https:/
 #### If you rely on an addon that needs updates
 
 If an addon you depend on isn’t keeping pace with recent Storybook versions, you can help bring it under community stewardship. We’ll support you in updating it and, if needed, publishing a community-maintained version under our namespace. This avoids duplicated effort, and gives your fork more visibility.
-
-Contributors are invited to the group based on:
-* Agreement with our [code of conduct](https://github.com/storybook-community/.github/blob/main/profile/CODE_OF_CONDUCT.md) and [safety procedures](https://github.com/storybook-community/.github/blob/main/profile/SAFETY.md)
-* Track record of contributions to FOSS projects (NPM packages with active users, multiple contributions to larger projects)
-
-Here are the criteria for an addon to be adopted into the community group:
-* The original, unmaintained addon should have at least 1,000 weekly downloads
-* There must be a person available to be the primary maintainer
 
 ### Some addons we maintain
 
