@@ -1,18 +1,18 @@
 ## Storybook Community Collective
 
-We are a group of Storybook contributors and addon authors who grouped up to help maintain popular Storybook addons. We publish maintenance updates for popular addons that are no longer maintained, and we develop and publish our own addons! When an addon's author no longer responds to Pull Requests and cannot be reached, the Storybook Community Collective steps in to provide a maintained fork of the addon.
+The Storybook Community Collective is a group dedicated to keeping the addon ecosystem healthy, consistent, and well-maintained as Storybook evolves. We do so by publishing maintenance updates for popular addons that have not kept up with Storybook’s release cycle, and we also develop and publish our own addons! When an addon's author no longer responds to Pull Requests and cannot be reached, the Storybook Community Collective may step in to provide a maintained fork of the addon.
 
 ### How to participate
 
-#### As an addon author
+#### If you're an addon author
 
 Do you already know how to [write Storybook addons](https://storybook.js.org/docs/addons/writing-addons)? You can join the collective as a general contributor, to help with maintenance effort when major versions of Storybook are released. Come [talk to us on Discord](https://discord.gg/KKXFQy9sFc) if you're interested in helping out.
 
 To read more about contributing, check out our [contribution guidelines](https://github.com/storybook-community/.github/blob/main/profile/CONTRIBUTE.md). If you're already a Storybook contributor or maintainer, you can participate in the maintenance of all addons in the organisation. Otherwise, we can propose specific addons that need active contributors that you can help maintain.
 
-#### As an unmaintained addon user
+#### If you rely on an addon that needs updates
 
-Do you need an addon that is no longer receiving updates? You can choose to adopt the addon and update it to Storybook, and we'll help you publish it in the community namespace. Publishing addon forks in this group helps avoid duplicate effort, and gives your fork more visibility.
+If an addon you depend on isn’t keeping pace with recent Storybook versions, you can help bring it under community stewardship. We’ll support you in updating it and, if needed, publishing a community-maintained version under our namespace. This avoids duplicated effort, and gives your fork more visibility.
 
 Contributors are invited to the group based on:
 * Agreement with our [code of conduct](https://github.com/storybook-community/.github/blob/main/profile/CODE_OF_CONDUCT.md) and [safety procedures](https://github.com/storybook-community/.github/blob/main/profile/SAFETY.md)
