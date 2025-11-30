@@ -1,5 +1,6 @@
 {
 	"cSpell.words": [
 		"esac"
-	]
+	],
+	"git.alwaysSignOff": true,
 }
