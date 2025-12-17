@@ -33,6 +33,8 @@ If an addon you depend on isn’t keeping pace with recent Storybook versions, y
   <dd>Sets document.cookie in your stories.</dd>
   <dt><a href="https://github.com/storybook-community/storybook-source-link">storybook-source-link</a> (by <a href="https://github.com/sidnioulz">@sidnioulz</a>)</dt>
   <dd>Adds a link to the source repo in the toolbar.</dd>
+  <dt><a href="https://github.com/storybook-community/storybook-addon-mock">storybook-addon-mock</a> (by <a href="https://github.com/elirov">@elirov</a>)</dt>
+  <dd>Allows you to mock fetch or XMLHttpRequest in the storybook.</dd>
   <dt><a href="https://github.com/storybook-community/storybook-addon-contentsquare">storybook-addon-contentsquare</a> (by <a href="https://github.com/sidnioulz">@sidnioulz</a>)</dt>
   <dd>Tracks page visits on a Storybook instance in Contentsquare, and show Hotjar Insights feedback buttons.</dd>
   <dt><a href="https://github.com/storybook-community/storybook-addon-matomo">storybook-addon-matomo</a> (by <a href="https://github.com/sidnioulz">@sidnioulz</a>)</dt>
